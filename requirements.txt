@@ -10,7 +10,7 @@ ipython-genutils==0.2.0
 jdcal==1.4.1
 jedi==0.15.2
 more-itertools==8.1.0
-numpy==1.18.4
+numpy==1.22.0
 openpyxl==3.0.3
 packaging==20.1
 pandas==1.0.3
